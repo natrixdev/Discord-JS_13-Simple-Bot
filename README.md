@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 <h1>Discord.Js V13 - Simple Bot</h1>
 <h3><a href="https://github.com/natrixdev">By natrixdev</a></h3>
 <br/>
